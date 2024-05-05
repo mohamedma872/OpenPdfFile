@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+</resources>
